@@ -82,7 +82,8 @@ print(f"The MAC Address for {ip_address} is: {mac_address}")
 client_socket.close()
 ```
 ## OUPUT - ARP:
-![Server](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/144870412/da4356dc-6f1a-437c-8500-8fee628aec4c)
+![Server](https://github.com/EzhilsreeJ/2c.ARP_RARP_PROTOCOLS/assets/144870412/8d364532-4530-4707-870f-664d74ea8a10)
+
 ![Client](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/144870412/e24c0ad0-dd55-4048-aeee-8677836b0f7c)
 
 ## PROGRAM - RARP:
