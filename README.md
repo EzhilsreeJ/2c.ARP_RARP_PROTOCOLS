@@ -153,7 +153,9 @@ client_socket.close()
 
 ## OUPUT -RARP:
 ![image](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/144870412/03a8477c-818d-46a3-8b93-f8f7144cbca4)
-![image](https://github.com/NaliniG007/2c.ARP_RARP_PROTOCOLS/assets/144870412/7acbe61b-083e-4274-b2a0-7da38fe48fe7)
+
+
+![Screenshot 2024-02-27 124207](https://github.com/EzhilsreeJ/2c.ARP_RARP_PROTOCOLS/assets/144870412/6a3c6ac8-1883-446f-970c-9264e8a8f024)
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
